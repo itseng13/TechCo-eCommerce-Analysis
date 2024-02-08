@@ -9,17 +9,17 @@ what are the questions?
 
 what i did 
 
-## About the Data 
+# About the Data 
 schema and explanation 
 
-## High-Level Summary
+# High-Level Summary
 this is a high level summary 
 - metric 1
 - metric 2
 - metric 3
 - metric 4
 
-## Insights and Reccomendations
+# Insights and Reccomendations
 - insight 1
 - insight 2
 - insight 3
