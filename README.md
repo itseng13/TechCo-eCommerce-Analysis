@@ -1,5 +1,4 @@
 # TechCo-eCommerce-Analysis
----
 _company intro_ 
 
 what are the questions? 
@@ -11,11 +10,9 @@ what are the questions?
 what i did 
 
 ## About the Data 
----
 schema and explanation 
 
 ## High-Level Summary
----
 this is a high level summary 
 - metric 1
 - metric 2
@@ -23,7 +20,6 @@ this is a high level summary
 - metric 4
 
 ## Insights and Reccomendations
----
 - insight 1
 - insight 2
 - insight 3
