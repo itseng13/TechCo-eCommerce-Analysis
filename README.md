@@ -3,11 +3,11 @@ Established in 2018, TechCo is a global eCommerce company that sells popular con
 
 TechCo has data on over 100,000 customer transactions across various dimensions, including sales, products, marketing efforts, operations, and its loyalty program. To assist the Head of Operations in understanding the company's performance from 2019 to 2022, a comprehensive analysis was conducted. The insights and recommendations focus on the following key areas:
 
-Sales Trends: Analysis of sales revenue, number of orders, and average order value (AOV).
-- Loyalty Program Evaluation: Assessment of the loyalty program's effectiveness and recommendations to enhance customer engagement and retention.
-- Product Performance: Analysis of product lines, market impact, and refund rates to inform strategic decisions.
-- Operational Effectiveness: Evaluation of logistics and operational efficiency to identify improvement areas.
-- Marketing Channel Performance: Analysis of campaign performances across channels to determine the most effective for acquiring new customers and driving revenue.
+- **Sales Trends**: Analysis of sales revenue, number of orders, and average order value (AOV).
+- **Loyalty Program Evaluation**: Assessment of the loyalty program's effectiveness and recommendations to enhance customer engagement and retention.
+- **Product Performance**: Analysis of product lines, market impact, and refund rates to inform strategic decisions.
+- **Operational Effectiveness**: Evaluation of logistics and operational efficiency to identify improvement areas.
+- **Marketing Channel Performance**: Analysis of campaign performances across channels to determine the most effective for acquiring new customers and driving revenue.
 
 
 
