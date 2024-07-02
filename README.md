@@ -1,13 +1,13 @@
 # TechCo-eCommerce-Analysis
-TechCo, founded in 2018, is a global eCommerce company that provides popular consumer electronics to a worldwide customer base. This project analyzes TechCo's sales data to uncover trends, average order value, and operational efficiency.
+Established in 2018, TechCo is a global eCommerce company that sells popular consumer electronics to a worldwide customer base. As the company has grown, it has faced increasing competition and unique challenges due to the COVID-19 pandemic.
 
-The analysis begins with an Excel-based overview of key performance metrics, followed by SQL queries in BigQuery to derive targeted insights and recommendations.
+TechCo has data on over 100,000 customer transactions across various dimensions, including sales, products, marketing efforts, operations, and its loyalty program. To assist the Head of Operations in understanding the company's performance from 2019 to 2022, a comprehensive analysis was conducted. The insights and recommendations focus on the following key areas:
 
-Key Areas of Analysis
-- Sales Trends
-- Product and Region Performance
-- Loyalty Program Effectiveness
-- Refund Rates and Average Order Value
+Sales Trends: Analysis of sales revenue, number of orders, and average order value (AOV).
+- Loyalty Program Evaluation: Assessment of the loyalty program's effectiveness and recommendations to enhance customer engagement and retention.
+- Product Performance: Analysis of product lines, market impact, and refund rates to inform strategic decisions.
+- Operational Effectiveness: Evaluation of logistics and operational efficiency to identify improvement areas.
+- Marketing Channel Performance: Analysis of campaign performances across channels to determine the most effective for acquiring new customers and driving revenue.
 
 
 
