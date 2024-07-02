@@ -18,11 +18,30 @@ The raw data was first checked, cleaned, and reformatted before analysis.
 
 
 # Insights
-- metric 1
-- metric 2
-- metric 3
-- metric 4
+### Sales Trends
+- 1
+- 2
+- 3
+### Refund Rates
+- 1
+- 2
+- 3
+### Loyalty Program
+- 1
+- 2
+- 3
+### Operational Efficiency
+- 1
+- 2
+- 3
 
 # Recommendations
-- Recommendation 1
-- Recommendation 2 
+### Sales
+- 1
+- 2
+### Marketing
+- 1
+- 2
+### Operations
+- 1
+- 2
