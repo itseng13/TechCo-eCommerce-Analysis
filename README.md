@@ -1,13 +1,14 @@
 # TechCo-eCommerce-Analysis
-TechCo, founded in 2018, is a global eCommerce that provides popular consumer electronics to a worldwide customer base. In this project, I utilized the company's sales data to analyze its sales trends, average order value, and operational efficiency. 
+TechCo, founded in 2018, is a global eCommerce company that provides popular consumer electronics to a worldwide customer base. This project analyzes TechCo's sales data to uncover trends, average order value, and operational efficiency.
 
-I began by using Excel to investigate the company's North Star metrics to gain a high-level view of its performance trends. I then used SQL in BigQuery to make targeted insights and recommendations to specific teams in the company.  
+The analysis begins with an Excel-based overview of key performance metrics, followed by SQL queries in BigQuery to derive targeted insights and recommendations.
 
-Key Areas  
-- Sales Trends
-- Product and Region Performance 
-- Loyalty Programme Effectiveness 
-- Refund Rates and Average Order Value 
+Key Areas of Analysis
+-Sales Trends
+-Product and Region Performance
+-Loyalty Program Effectiveness
+-Refund Rates and Average Order Value
+
 
 
 # About the Data 
