@@ -17,17 +17,12 @@ The database contains 108,130 rows and consists of four tables: orders, customer
 The raw data was first checked, cleaned, and reformatted before analysis. 
 
 
-# High-Level Summary
-this is a high-level summary 
+# Insights
 - metric 1
 - metric 2
 - metric 3
 - metric 4
 
-# Insights and Recommendations
-- insight 1
-- insight 2
-- insight 3
-
+# Recommendations
 - Recommendation 1
 - Recommendation 2 
