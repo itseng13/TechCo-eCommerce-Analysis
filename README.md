@@ -4,10 +4,10 @@ TechCo, founded in 2018, is a global eCommerce company that provides popular con
 The analysis begins with an Excel-based overview of key performance metrics, followed by SQL queries in BigQuery to derive targeted insights and recommendations.
 
 Key Areas of Analysis
--Sales Trends
--Product and Region Performance
--Loyalty Program Effectiveness
--Refund Rates and Average Order Value
+- Sales Trends
+- Product and Region Performance
+- Loyalty Program Effectiveness
+- Refund Rates and Average Order Value
 
 
 
