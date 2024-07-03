@@ -19,29 +19,33 @@ The raw data was first checked, cleaned, and reformatted before analysis.
 
 # Insights
 ### Sales Trends
-- 1
-- 2
-- 3
+- From 2019-2022, **TechCo averaged over $7 million in sales and 27k orders per year**, totaling $28 million and 108k orders over four years. **2019 was the weakest year** with less than $4 million in sales. **The pandemic doubled orders in 2020**, spiking sales by 163% to over $10 million.
+- **Sales fell 10% in 2021** and dropped 46% in 2022, with orders decreasing by 40%. **Average Order Value (AOV) fell back to 2019 levels** of approximately $229 per order by the end of 2022.
+- **North America and EMEA contributed 80% of sales and orders**. The gaming monitor was the top-selling product by revenue, while Apple AirPods sold the most units (45% of all orders). Apple products accounted for about 50% of sales and orders.
+- **From 2019 to 2022, TechCo saw 108K orders and $28M in revenue** with an AOV of $260. **Pandemic-driven growth in 2020** led to a 31% increase in AOV and a doubling of orders, resulting in $10M in revenue, a 163% increase from 2019. **However, 2022 experienced a significant sales slump** with a 46% drop in revenue.
 ### Refund Rates
-- 1
-- 2
-- 3
+- **Approximately 5% of TechCo's transactions were refunded**. Products like Macbook and Thinkpad laptops had over 11% refund rates, higher than the iPhone's 7.6%. **The gaming monitor had a 6.2% refund rate**, indicating that more expensive products tend to be refunded more often.
+- Despite increased sales in 2020, iPhone and Macbook refunds remained stable, while **AirPods refunds increased to 10%**. Refund rates for Apple products dropped to 4% in 2021 and were non-existent in 2022, possibly due to missing data.
+- **AirPods were the most refunded item**, with over 2.6k orders returned.
 ### Loyalty Program
-- 1
-- 2
-- 3
+- **From 2019-2022, over 32k customers (43.5% of the total customer base) signed up for TechCo's loyalty program**. Direct marketing contributed 23.3k signups at a 40% rate, while email marketing had the highest conversion rate at 58.8%.
+- **Loyalty customer purchases grew from 11% of total sales in 2019 to 55% in 2022**. Loyalty transactions outpaced non-loyalty sales from April 2021. **Loyalty AOV increased steadily**, surpassing non-loyalty AOV in mid-2021 and peaking at $269 in October 2021.
+- Initially, non-loyalty customers drove revenue, but from 2021, loyalty customers placed more orders and **spent $30 more per order on average**. In 2022, **loyalty customers accounted for 55% of total revenue and 52% of orders**. The loyalty program performed exceptionally well in North America, surpassing non-loyalty customers in key metrics.
 ### Operational Efficiency
-- 1
-- 2
-- 3
+- From 2020-2022, **TechCo maintained an average shipping time of around 7.5 days across all regions**. In 2019, shipping times were slightly longer, particularly in APAC and EMEA, averaging just over 8 days but have since improved.
+- **Shipping times showed minimal variation between regions**, with EMEA and APAC averaging 7.6 days, NA at 7.5 days, and LATAM at 7.4 days. **TechCo's delivery times lag behind the 2-4 day average of competitors**.
+- **Delivery times were consistent for both non-loyalty and loyalty customers**. Reducing delivery times for loyalty customers could incentivize program signups. **Transit time, accounting for the bulk of delivery time**, remained consistent, suggesting that improvements here could enhance overall efficiency.
 
 # Recommendations
+These recommendations aim to address key areas in sales, marketing, and operations to improve overall performance and customer satisfaction.
 ### Sales
-- 1
-- 2
+- **Promote High AOV Products**: Focus marketing efforts on popular and high AOV products like the gaming monitor, MacBook, and AirPods to maximize revenue.
+- **Investigate Sales Decline**: Collaborate with the sales team to understand and address the significant drop in sales in the second half of 2022.
+- **Seasonal Advertising**: Increase advertising efforts during February, June, and October to mitigate historically poor performance in these months.
 ### Marketing
-- 1
-- 2
+- **Leverage Email Marketing**: Invest more in email marketing due to its high conversion rate for loyalty program signups.
+- **Social Media Marketing**: Boost social media marketing efforts given its above-average conversion rates.
+- **Direct Marketing Efficiency**: Reassess and possibly reduce spending on direct marketing due to its lower signup rate.
 ### Operations
-- 1
-- 2
+- **Reduce Shipping Times**: Investigate ways to decrease shipping times, especially for EMEA and APAC regions, to improve overall customer satisfaction.
+- **Priority Shipping for Loyalty Members**: Offer reduced delivery times for loyalty program customers to incentivize signups and increase customer retention.
