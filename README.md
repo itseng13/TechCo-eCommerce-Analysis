@@ -23,6 +23,7 @@ The raw data was first checked, cleaned, and reformatted before analysis.
 - **Sales fell 10% in 2021** and dropped 46% in 2022, with orders decreasing by 40%. **Average Order Value (AOV) fell back to 2019 levels** of approximately $229 per order by the end of 2022.
 - **North America and EMEA contributed 80% of sales and orders**. The gaming monitor was the top-selling product by revenue, while Apple AirPods sold the most units (45% of all orders). Apple products accounted for about 50% of sales and orders.
 - **From 2019 to 2022, TechCo saw 108K orders and $28M in revenue** with an AOV of $260. **Pandemic-driven growth in 2020** led to a 31% increase in AOV and a doubling of orders, resulting in $10M in revenue, a 163% increase from 2019. **However, 2022 experienced a significant sales slump** with a 46% drop in revenue.
+![image](https://cdn.discordapp.com/attachments/820197133771866123/1258188119853895690/image.png?ex=6687227f&is=6685d0ff&hm=400bdd8eb62d63b0aa1cf7ac277a54e1b6422aabf7408a933c240ce30cdacb5a&)
 ### Refund Rates
 - **Approximately 5% of TechCo's transactions were refunded**. Products like Macbook and Thinkpad laptops had over 11% refund rates, higher than the iPhone's 7.6%. **The gaming monitor had a 6.2% refund rate**, indicating that more expensive products tend to be refunded more often.
 - Despite increased sales in 2020, iPhone and Macbook refunds remained stable, while **AirPods refunds increased to 10%**. Refund rates for Apple products dropped to 4% in 2021 and were non-existent in 2022, possibly due to missing data.
